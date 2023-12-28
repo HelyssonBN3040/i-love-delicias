@@ -1,3 +1,7 @@
+@font-face {
+    font-family:'Love';
+    src: url('/font/Edwardian.TTF') format('truetype');
+}
 *{
     box-sizing: border-box;
     margin: 0;
@@ -25,7 +29,7 @@ strong{
 }
 .name-title{
     font-size: 40px;
-    font-family: Edwardian Script ITC;
+    font-family: 'Love';
     text-align: center;
     color: white;
     margin: 10px 0;
