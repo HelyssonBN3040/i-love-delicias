@@ -132,6 +132,7 @@ footer{
     width: 35px;
 }
 .social{
+    width: 100%;
     display: flex;
     justify-content: center;
 }
@@ -166,6 +167,9 @@ footer{
     }
     .rede-footer-logo{
         width: 100%;
+    }
+    .social img{
+        margin: 10px;
     }
 
 }
